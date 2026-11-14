@@ -1,7 +1,7 @@
 {
-    "schemaVersion":  1,
-    "version":  "1.2.0",
-    "url":  "https://github.com/terryjohnsonjr/AudioSwitch-Releases/releases/download/v1.2.0/AudioSwitch-1.2.0-Setup-win-x64.exe",
-    "sha256":  "04f5259354d1ad46c586adbabedfbd81d2b5a369b4a46906850434dfc213e83d",
-    "size":  35409656
+  "schemaVersion": 1,
+  "version": "1.2.0",
+  "url": "https://github.com/terryjohnsonjr/AudioSwitch-Releases/releases/download/v1.2.0/AudioSwitch-1.2.0-Setup-win-x64.exe",
+  "sha256": "04f5259354d1ad46c586adbabedfbd81d2b5a369b4a46906850434dfc213e83d",
+  "size": 35409656
 }
